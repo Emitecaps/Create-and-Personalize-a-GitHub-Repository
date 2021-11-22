@@ -1,12 +1,12 @@
 # Create-and-Personalize-a-GitHub-Repository
-##Practice Activity
+## Practice Activity
 
 # Who are you? 
 ## I am Jeri & interested in learning valuable skills in this Bootcamp.
 
 
 # What is your background?
-## Fashion Design, Retail sales and management, Hair Stylist & a small business owner.
+## Fashion Design, Retail sales and management, Hair Stylist & a small business owner. Fun fact about me, 1st FT job out of high school before deciding what to study in college was working at Savings of America bank.
 
 
 # What are your career goals?
